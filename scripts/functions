@@ -1,0 +1,11 @@
+
+#MIYA ZHU JANUARY 20TH
+#defining functions example using Operations
+def add(a,b):
+ return a+b
+
+
+
+def subtract(a,b):
+  return a-b
+
